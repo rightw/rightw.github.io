@@ -65,7 +65,7 @@ html {
 
 body {
   background: #fff;
-  font: 18px/1.4 Helvetica, Arial, sans-serif;
+  font: 14px/1.2 Helvetica, Arial, sans-serif;
   color: #333;
 }
 
@@ -92,7 +92,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 18px;
 }
 
 h1 a {
@@ -100,20 +100,20 @@ h1 a {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 17px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 26px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 15px;
   color: #666;
 }
 
 p {
-  margin: 15px 0;
+  margin: 10px 0;
 }
 
 a {
